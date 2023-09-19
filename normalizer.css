@@ -1,0 +1,13 @@
+*, body, #root {
+    padding: 0;
+    margin: 0;
+}
+
+*, body, #root,h1, h2, h3, h4, h5, h6, p, a{
+    font-family: sans-serif;
+}
+
+.normalize-link {
+    text-decoration: none;
+    color: black;
+}
